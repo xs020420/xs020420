@@ -1,4 +1,10 @@
 ### Hi there 👋
+This is Leon，nice to meet you guys!
+### About me 👋
+- Currently writing C++, sometime C#
+- Two years old DAW User
+- Learning Algorithm and Graphics now 
+- So there!
 
 <!--
 **xs020420/xs020420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
