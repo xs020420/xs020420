@@ -2,7 +2,7 @@
 This is Leon，nice to meet you guys!
 ### About me 👋
 - Currently writing C++, sometime C#
-- Two years old DAW User
+- DAW(Digital Audio WorkStation) User
 - Learning Algorithm and Graphics now 
 - So there!
 
