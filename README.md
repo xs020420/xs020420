@@ -3,7 +3,7 @@ This is Leon，nice to meet you guys!
 ### About me 👋
 - Currently writing C++, sometime C#
 - DAW(Digital Audio WorkStation) User
-- Learning Algorithm and Graphics now 
+- Learning Operation Research now 
 - So there!
 
 <!--
