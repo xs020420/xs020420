@@ -1,12 +1,10 @@
-### Hi there 👋
-This is Leon，nice to meet you guys!
 ### About me 👋
 - Currently writing C++, sometime C#
 - DAW(Digital Audio WorkStation) User
 - Learning Operation Research now 
 - So there!
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=false&langs_count=10)
 
 <!--
 **xs020420/xs020420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
