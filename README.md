@@ -6,6 +6,8 @@ This is Leon，nice to meet you guys!
 - Learning Operation Research now 
 - So there!
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=true&langs_count=10)
+
 <!--
 **xs020420/xs020420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
