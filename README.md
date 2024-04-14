@@ -1,7 +1,7 @@
 ### About me 👋
-- Currently writing C++, sometime C#
-- DAW(Digital Audio WorkStation) User
-- Learning Operation Research now 
+- Mainly C++ Writer(A little C#)
+- Digtal Audio WorkStation User 
+- Junior Operation Researcher
 - So there!
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=false&langs_count=10)
