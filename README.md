@@ -3,6 +3,7 @@
 - Digtal Audio WorkStation User 
 - Junior Operation Researcher
 - So there!
+- MyBlog：[Click here](https://xs020420.github.io)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=false&langs_count=10)
 
