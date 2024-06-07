@@ -1,5 +1,5 @@
 ### About me 👋
-- Mainly C++ Writer(A little C#)
+- Mainly C++ / C# Writer
 - Digtal Audio WorkStation User 
 - Junior Operation Researcher
 - So there!
