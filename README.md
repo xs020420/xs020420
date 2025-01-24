@@ -2,7 +2,7 @@
 - Mainly C++ / C# Writer
 - Junior OR Researcher
 - Digtal Audio WorkStation Player
-- pedal collector
+- Pedal Collector
 - MyBlog：[Click here](https://xs020420.github.io)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=false&langs_count=10)
